@@ -1,0 +1,9 @@
+altair
+streamlit
+streamlit-option-menu
+firebase-admin
+python-dotenv
+streamlit-lottie
+beautifulsoup4
+anthropic
+groq
